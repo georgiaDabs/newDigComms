@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InText
+comment1.params=filename\ swSize\ bSize\ outFile
+comment1.target=InText(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=bArray\ swSize\ bSize
+comment2.target=void\ encode(byte[],\ int,\ int)
+comment3.params=outFile
+comment3.target=void\ printOutput(java.lang.String)
+numComments=4

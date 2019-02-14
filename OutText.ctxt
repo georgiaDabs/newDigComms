@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OutText
+comment1.params=encodedFile\ decodedFile
+comment1.target=OutText(java.lang.String,\ java.lang.String)
+comment2.params=file
+comment2.target=void\ decode(java.lang.String)
+comment3.params=outFile
+comment3.target=void\ printFile(java.lang.String)
+numComments=4
